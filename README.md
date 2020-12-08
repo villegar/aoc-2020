@@ -11,7 +11,7 @@ Reference: <https://adventofcode.com/2020/about>
 
 ### My solutions:
 
-  - Day 1:
+  - Day 1: Report Repair ([Description](day-1/README-D1.md)) (Solution)
   - Day 2:
   - Day 3:
   - Day 4:
