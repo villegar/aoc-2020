@@ -64,3 +64,5 @@ In this example, the sum of these counts is `3 + 3 + 3 + 1 + 1 = 11`.
 
 For each group, count the number of questions to which anyone answered
 “yes”. What is the sum of those counts?
+
+Reference: <https://adventofcode.com/2020/day/6>
